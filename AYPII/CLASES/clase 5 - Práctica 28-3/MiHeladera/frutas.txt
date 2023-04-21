@@ -1,0 +1,5 @@
+Banana 2 
+Manzana 3 
+Uva 10
+Pera 2
+Naranja 1
